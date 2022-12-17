@@ -1,0 +1,18 @@
+{
+  "total_box_input": "Total No of Boxes to be displayed on each side",
+  "total_selection_allowed": "Max No of Total Selections allowed for selecting on both the sides",
+  "alphabets_allowed" : "Max No of Alphabets allowed for selecting",
+  "numbers_allowed" : "Max No of Numbers allowed for selecting",
+  "reset_value" : "Reset all values to '0'",
+  "success": "success",
+  "error" : "Error:",
+  "max_alphabet_reached_error": "Unable to select as Max No of Alphabet reached (%s1)",
+  "max_numbers_reached_error": "Unable to select as Max No of Numbers reached (%s1)",
+  "max_selection_reached_error" : "Unable to select as Max No of Selections Reached (%s1)",
+  "input_selection_limit_error": "You cannot enter value more than %s1 in Max No of Selections.",
+  "input_alphabets_limit_error": "You cannot enter value more than %s1 in Max No of Alphabets",
+  "input_numbers_limit_error": "You cannot enter value more than %s1 in Max No of Numbers",
+  "input_checkbox_limit_error" : "Only Max of %s1 select boxes can be Created, enter value less than or equal to %s2",
+  "alphabet_list" : ["a","b","c","d","e","f","g","h","i","j","k"],
+  "number_list" : [1,2,3,4,5,6,7,8,9,10,11]
+}
